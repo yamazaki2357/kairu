@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kairukun/static/css/main.be3099e9.css",
+    "main.js": "/kairukun/static/js/main.24630417.js",
+    "static/js/787.022287d2.chunk.js": "/kairukun/static/js/787.022287d2.chunk.js",
+    "static/media/Office2003.png": "/kairukun/static/media/Office2003.ccdde320c41fdf130903.png",
+    "index.html": "/kairukun/index.html",
+    "main.be3099e9.css.map": "/kairukun/static/css/main.be3099e9.css.map",
+    "main.24630417.js.map": "/kairukun/static/js/main.24630417.js.map",
+    "787.022287d2.chunk.js.map": "/kairukun/static/js/787.022287d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3099e9.css",
+    "static/js/main.24630417.js"
+  ]
+}
